@@ -1,2 +1,4 @@
 # google-homepage
-My first repository on github
+google-homepage
+
+https://github.com/MilkMan90/google-homepage.git
